@@ -1,4 +1,4 @@
-- Quais as 10 infrações que mais ocorreram?
+- Quais as 10 infrações que mais ocorreram? OBS: Com descrição
 - Qual o mes do ano de 2014 que houve mais infração?
 - Quantos por cento cresceu ou diminuiu a quantidade de infrações entre 2014 e 2015
 - Os 10 locais que mais houveram infrações?
