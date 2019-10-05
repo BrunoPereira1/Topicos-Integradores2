@@ -1,11 +1,12 @@
 - Quais as 10 infrações que mais ocorreram? -------------------------------------------------------------------------------------
 - Quais os 3 meses do ano de 2014 que houve mais infração? ----------------------------------------------------------------------
-- Quantos por cento cresceu ou diminuiu a quantidade de infrações entre 2014 e 2015
+- Quantos por cento cresceu ou diminuiu a quantidade de infrações entre 2014 e 2015----------------------------------------------
 - Os 3 locais que mais houveram infrações?---------------------------------------------------------------------------------------
 - Quais os 5 horarios que mais ocorrem infrações? -------------------------------------------------------------------------------
 - Quantas infrações foram cometidas por estacionar sem pagar a Zona azul em 2014? -----------------------------------------------
 - Quantidade de multas por excesso de velocidade?--------------------------------------------------------------------------------
 - Número de infrações cometidas por dirigir utilizando o telefone celular em 2014?-----------------------------------------------
-- Quantos por cento cresceu ou diminuiu o número de infrações por excesso de velocidade do mês de Janeiro para o mês de Dezembro?
-- Quantas infrações foram cometidas entre 00h e 06h do dia 01/01/2014?
+- Comparando se cresceu ou diminuiu o número de infrações por excesso de velocidade do mês de Janeiro 2014 para o mês de Janeiro de 2015?----------------------------------------------------------------------------------------------------------------------------
+- Os 5 locais que mais ocorreram infrações no dia 01/01/2014?--------------------------------------------------------------------
+
 
